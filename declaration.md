@@ -1,4 +1,4 @@
-# Declaration of the Free States
+# Declaration of the Free States of the American Republic
 
 Version 1.0 — 12 March 2026
 
