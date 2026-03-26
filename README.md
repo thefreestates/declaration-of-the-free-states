@@ -1,6 +1,6 @@
-# Declaration of the Free States
+# Declaration of the Free States of America
 
-This repository contains the canonical text of the *Declaration of the Free States*.
+This repository contains the canonical text of the *Declaration of the Free States of America*.
 
 ## Current Version
 
