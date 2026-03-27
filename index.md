@@ -28,7 +28,7 @@ It is published as a record of grievance, a statement of resolve, and an appeal 
 <h2>Read the Declaration</h2>
 
 <p>
-<a href="{{ '/declaration/' | relative_url }}">Full Text of the Declaration</a><br>
+<a href="{{ '/declaration.html' | relative_url }}">Full Text of the Declaration</a><br>
 <a href="{{ '/declaration.pdf' | relative_url }}">Download PDF (v1.0)</a>
 </p>
 
