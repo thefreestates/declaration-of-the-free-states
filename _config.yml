@@ -1,0 +1,7 @@
+title: "Declaration of the Free States"
+description: "A Statement of Causes and Resolve"
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins: []
