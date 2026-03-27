@@ -37,8 +37,8 @@ It is published as a record of grievance, a statement of resolve, and an appeal 
 <h2>Signatories</h2>
 
 <p>
-<a href="{{ '/state_officers/' | relative_url }}">State Officers</a><br>
-<a href="{{ '/signatories/' | relative_url }}">Public Signatories</a>
+<a href="{{ '/state_officers.html' | relative_url }}">State Officers</a><br>
+<a href="{{ '/signatories.html' | relative_url }}">Public Signatories</a>
 </p>
 
 <hr class="rule">
