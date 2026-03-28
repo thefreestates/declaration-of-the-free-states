@@ -45,6 +45,8 @@ Governors, Attorneys General, Secretaries of State, and other constitutional off
 
 <hr class="rule">
 
+<hr class="rule">
+
 <h2>Support</h2>
 
 <p class="lead">
@@ -60,6 +62,31 @@ If you support the principles of this Declaration, you may register that support
     Support this Declaration
   </a>
 </div>
+
+<p id="support-message" style="text-align:center; margin-top: 0.75rem;"></p>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const button = document.getElementById("support-button");
+  const message = document.getElementById("support-message");
+  const key = "declaration_support_registered";
+
+  if (localStorage.getItem(key) === "yes") {
+    button.textContent = "Support Registered";
+    button.setAttribute("aria-disabled", "true");
+    button.style.pointerEvents = "none";
+    message.textContent = "Your support has been recorded on this device.";
+  }
+
+  button.addEventListener("click", function () {
+    localStorage.setItem(key, "yes");
+    button.textContent = "Support Registered";
+    button.setAttribute("aria-disabled", "true");
+    button.style.pointerEvents = "none";
+    message.textContent = "Your support has been recorded on this device.";
+  });
+});
+</script>
 
 
 <div class="closing-block">
