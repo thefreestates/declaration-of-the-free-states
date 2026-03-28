@@ -19,23 +19,6 @@ title: "Declaration of the Free States"
 The Declaration of the Free States sets forth the causes which compel a Free People to name and resist the rise of tyranny, and to restore constitutional government.
 </p>
 
-<hr class="rule">
-
-<h2>Support</h2>
-
-<p class="lead">
-If you support the principles of this Declaration, you may register that support here.
-</p>
-
-<div style="text-align:center;">
-  <a
-    href="#"
-    id="support-button"
-    class="support-button plausible-event-name=Support+Declaration"
-    onclick="return false;">
-    Support this Declaration
-  </a>
-</div>
 
 <hr class="rule">
 
@@ -62,6 +45,23 @@ Governors, Attorneys General, Secretaries of State, and other constitutional off
 </p>
 
 <hr class="rule">
+
+<h2>Support</h2>
+
+<p class="lead">
+If you support the principles of this Declaration, you may register that support here.
+</p>
+
+<div style="text-align:center;">
+  <a
+    href="#"
+    id="support-button"
+    class="support-button plausible-event-name=Support+Declaration"
+    onclick="return false;">
+    Support this Declaration
+  </a>
+</div>
+
 
 <div class="closing-block">
   <p>
