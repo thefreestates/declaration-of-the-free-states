@@ -45,8 +45,6 @@ Governors, Attorneys General, Secretaries of State, and other constitutional off
 
 <hr class="rule">
 
-<hr class="rule">
-
 <h2>Support</h2>
 
 <p class="lead">
