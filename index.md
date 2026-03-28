@@ -21,7 +21,7 @@ The Declaration of the Free States sets forth the causes which compel a Free Peo
 
 <hr class="rule">
 
-<h2>Read</h2>
+<h2>The Declaration</h2>
 
 <p>
 <a href="{{ '/declaration.html' | relative_url }}">Full Text</a><br>
