@@ -27,13 +27,15 @@ The Declaration of the Free States sets forth the causes which compel a Free Peo
 If you support the principles of this Declaration, you may register that support here.
 </p>
 
-<p style="text-align:center;">
-  <button 
+<div style="text-align:center;">
+  <a
+    href="#"
     id="support-button"
-    class="support-button plausible-event-name=Support+Declaration">
+    class="support-button plausible-event-name=Support+Declaration"
+    onclick="return false;">
     Support this Declaration
-  </button>
-</p>
+  </a>
+</div>
 
 <hr class="rule">
 
