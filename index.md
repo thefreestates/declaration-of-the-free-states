@@ -31,13 +31,12 @@ The Declaration of the Free States sets forth the causes which compel a Free Peo
 
 <hr class="rule">
 
-<h2>For State and Local Officials</h2>
+
+<h2>Signatories</h2>
 
 <p>
 Governors, Attorneys General, Secretaries of State, and other constitutional officers of the several States are invited to declare their public support for the principles set forth in this Declaration. Public declarations of support are recorded as part of the historical record of this Declaration.
 </p>
-
-<h2>Signatories</h2>
 
 <p>
 <a href="{{ '/state_officers.html' | relative_url }}">State Officers</a><br>
