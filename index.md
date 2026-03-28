@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <div class="closing-block">
   <p>
-  Published for the judgment of history.
+  Published for the judgment of history. Version 1.0 managed on GitHub and publicly available.
   </p>
 </div>
 
