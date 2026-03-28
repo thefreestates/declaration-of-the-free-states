@@ -21,6 +21,22 @@ The Declaration of the Free States sets forth the causes which compel a Free Peo
 
 <hr class="rule">
 
+<h2>Support</h2>
+
+<p class="lead">
+If you support the principles of this Declaration, you may register that support here.
+</p>
+
+<p style="text-align:center;">
+  <button 
+    id="support-button"
+    class="support-button plausible-event-name=Support+Declaration">
+    Support this Declaration
+  </button>
+</p>
+
+<hr class="rule">
+
 <h2>The Declaration</h2>
 
 <p>
