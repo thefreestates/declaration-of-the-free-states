@@ -71,7 +71,20 @@ h1 + p {
   margin-bottom: 1.5rem;
   font-size: 1rem;
 }
+.support-button {
+  display: inline-block;
+  padding: 0.8rem 1.2rem;
+  border: 1px solid #8d816f;
+  background: #efe8d8;
+  color: #1f1a17;
+  font-size: 1rem;
+  cursor: pointer;
+  text-decoration: none;
+}
 
+.support-button:hover {
+  background: #e7dec9;
+}
 .closing-block {
   text-align: center;
   margin-top: 2rem;
