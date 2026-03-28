@@ -1,20 +1,19 @@
 body {
-  font-family: Georgia, "Times New Roman", serif;
-  color: #1f1a17;
   background: #f8f5ee;
+  color: #1f1a17;
 }
 
 .page-content,
 .wrapper {
-  max-width: 900px;
+  max-width: 800px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
 }
 
-.wrapper {
-  max-width: 720px !important;
-  margin: 4rem auto !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding: 2.5rem 3rem;
+.declaration-wrap {
+  max-width: 760px;
+  margin: 3rem auto;
+  padding: 2rem 3rem;
   background: #fcfaf5;
   border: 1px solid #d8d1c2;
 }
@@ -40,39 +39,20 @@ body {
   font-size: 0.9rem;
 }
 
-h1 {
-  text-align: center;
-  font-size: 1.9rem;
-  letter-spacing: 0.02em;
-  margin-bottom: 0.4rem;
-}
-
-h1 + p {
-  text-align: center;
-  font-size: 0.95rem;
-  margin-top: 0;
-  margin-bottom: 1.8rem;
+.rule {
+  border-top: 1px solid #b9ae99;
+  margin: 2rem 0;
 }
 
 h2 {
   text-align: center;
   text-transform: uppercase;
-  font-size: 0.9rem;
-  letter-spacing: 0.08em;
-  margin-top: 2.2rem;
-  margin-bottom: 1rem;
-  font-variant: small-caps;
+  font-size: 1rem;
+  margin: 1.5rem 0;
 }
 
 p {
-  line-height: 1.85;
-  font-size: 1.05rem;
-  text-align: justify;
-}
-
-.post-content p {
-  line-height: 1.85;
-  font-size: 1.05rem;
+  line-height: 1.8;
   text-align: justify;
 }
 
@@ -80,129 +60,19 @@ p {
   text-align: center;
   font-size: 1.2rem;
 }
-
-.rule {
-  border-top: 1px solid #b9ae99;
-  margin: 2rem 0;
+h1 {
+  text-align: center;
+  margin-bottom: 0.4rem;
 }
 
-hr {
-  border: none;
-  border-top: 1px solid #b9ae99;
-  margin: 2rem 0;
-}
-
-a {
-  color: #2a2a2a;
-  text-decoration: none;
-  border-bottom: 1px solid #b9ae99;
-}
-
-a:hover {
-  border-bottom: 1px solid #1f1a17;
-}
-
-h2 + p {
-  max-width: 640px;
-  margin-left: auto;
-  margin-right: auto;
+h1 + p {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
 }
 
 .closing-block {
   text-align: center;
   margin-top: 2rem;
-}
-
-.support-button {
-  display: inline-block;
-  padding: 0.8rem 1.2rem;
-  border: 1px solid #8d816f;
-  background: #efe8d8;
-  color: #1f1a17;
-  font-size: 1rem;
-  cursor: pointer;
-}
-
-.support-button:hover:enabled {
-  background: #e7dec9;
-}
-
-.support-button:disabled {
-  cursor: default;
-  opacity: 0.8;
-}
-
-.signature-form {
-  margin-top: 2rem;
-}
-
-.signature-form label {
-  display: block;
-  margin-top: 1rem;
-  margin-bottom: 0.35rem;
-  font-size: 1rem;
-  letter-spacing: 0.02em;
-}
-
-.signature-form input[type="text"],
-.signature-form input[type="email"] {
-  width: 100%;
-  box-sizing: border-box;
-  padding: 0.8rem 0.9rem;
-  border: 1px solid #b9ae99;
-  background: #fffdf8;
-  color: #1f1a17;
-  font-size: 1rem;
-  line-height: 1.4;
-}
-
-.signature-form .checkbox {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.6rem;
-  margin-top: 1.25rem;
-  line-height: 1.5;
-}
-
-.signature-form button {
-  margin-top: 1.5rem;
-  padding: 0.8rem 1.2rem;
-  border: 1px solid #8d816f;
-  background: #efe8d8;
-  color: #1f1a17;
-  font-size: 1rem;
-  cursor: pointer;
-}
-
-.signature-form button:hover {
-  background: #e7dec9;
-}
-
-.signatory-list {
-  margin-top: 2rem;
-  padding-left: 1.2rem;
-}
-
-.signatory-list li {
-  margin: 0.65rem 0;
-  line-height: 1.7;
-}
-
-@media print {
-  body {
-    background: white;
-  }
-
-  .wrapper {
-    border: none;
-    margin: 0 !important;
-    padding: 0;
-    max-width: none !important;
-  }
-
-  a {
-    color: black;
-    text-decoration: none;
-    border-bottom: none;
-  }
 }
