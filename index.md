@@ -30,8 +30,6 @@ The Declaration of the Free States sets forth the causes which compel a Free Peo
 
 <hr class="rule">
 
-<hr class="rule">
-
 <h2>For State and Local Officials</h2>
 
 <p>
